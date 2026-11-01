@@ -29,6 +29,8 @@ Audio is processed locally and is never recorded or uploaded. The personal best 
 
 ## Shared all-time top 10
 
+The connected project is **Singy Bird** in **noels org**, region US West. Project URL: `https://agdgrknmbayabegwseoh.supabase.co`. Its leaderboard migration, Realtime publication, and anonymous player sign-ins are enabled. Local development reads public browser credentials from the ignored `.env.local` file. On November 1, 2026, real anonymous auth, score writes, cross-client reads and Realtime events, monotonic best scores, and rejection of direct table writes were verified; all test entries were removed.
+
 The leaderboard is optional: without configuration, the game works normally and clearly shows that the board is not connected. No demo scores are presented as live data.
 
 1. Create or select a Supabase project and enable **Anonymous Sign-Ins** in Authentication settings.

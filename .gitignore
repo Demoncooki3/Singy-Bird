@@ -3,6 +3,7 @@ dist/
 .DS_Store
 desktop.png
 mobile.png
+leaderboard-live.png
 .env
 .env.*
 !.env.example
